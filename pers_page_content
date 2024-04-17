@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ekaterina Martemyanova - Project Manager</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Ekaterina Martemyanova</h1>
+  <p>Project Manager at Practicum by Yandex</p>
+</header>
+<section>
+  <h2>Professional Experience</h2>
+  <p>Details about professional roles and responsibilities...</p>
+</section>
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>Project Management</li>
+    <li>E-learning</li>
+    <li>Data Analysis</li>
+  </ul>
+</section>
+<footer>
+  <p>Contact me at <a href="mailto:cmartem@gmail.com">cmartem@gmail.com</a></p>
+</footer>
+</body>
+</html>
